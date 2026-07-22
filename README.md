@@ -85,13 +85,7 @@ durgadevi = {
 
 | 📁 Public Repositories | 📊 Projects Completed | 📈 Dashboards Created | 💻 Tech Stack |
 |:----------------------:|:---------------------:|:---------------------:|:-------------:|
-| 30+ | 30+ | 15+ | Python • SQL • Power BI • Tableau |
-
-## 📊 GitHub Statistics
-
-| 📂 Repositories | 💻 Technologies | 📊 Dashboards | 🚀 Status |
-|:---------------:|:---------------:|:-------------:|:---------:|
-| 5+ Analytics Projects | Python • SQL • Power BI • Tableau | 5+ | Actively Building |
+| 15+ | 15+ | 10+ | Python • SQL • Power BI • Tableau • Excel |
 
 
 ## 🌐 Connect With Me
