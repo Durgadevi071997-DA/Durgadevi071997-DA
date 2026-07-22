@@ -69,15 +69,6 @@ durgadevi = {
 | Data Cleaning & Wrangling | Excel Charts | SQL Joins & Aggregations | Business Reporting |
 | Trend Analysis | Interactive Dashboards | Query Optimization | Decision Support |
 
-## 🚀 Featured Projects
-
-### 🔹 🌍 Global Banking & Financial Access Analysis
-**Python + SQL + Power BI** · Analyzed **28,338+ banking records**, **10 key business attributes**, and **2017–2025** financial data to identify global banking access trends through **5 KPI cards, 8+ visualizations, and interactive dashboards**.
-
-`28K+ Records` `2017–2025` `Python` `SQL` `Power BI` `EDA`
-
-
-
 ## 📊 GitHub Status 
 
 <p align="center">
@@ -102,10 +93,6 @@ durgadevi = {
 <p align="center">
   <a href="https://www.linkedin.com/in/durgadevi-m-du12/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="https://github.com/Durgadevi071997-DA">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
   <a href="https://github.com/Durgadevi071997-DA?tab=followers">
