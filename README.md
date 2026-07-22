@@ -10,6 +10,14 @@
 <p align="center">
 Passionate about transforming data into meaningful insights through analysis and visualization.
 </p>
+## 👩‍💻 About Me
+
+- 🎓 MA Economics Graduate
+- 📊 Aspiring Data Analyst
+- 💼 Passionate about Data Analytics and Business Intelligence
+- 🌱 Currently learning Advanced SQL, Python, and Power BI
+- 📍 Tamil Nadu, India
+- 📫 Reach me: durgadevi071997@gmail.com
 
 
 
