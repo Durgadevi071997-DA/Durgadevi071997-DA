@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi 👋, I'm M. Durgadevi
 
-<!--
-**Durgadevi071997-DA/Durgadevi071997-DA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💼 Aspiring Data Analyst
 
-Here are some ideas to get you started:
+🎓 MA Economics Graduate
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 Skilled in Excel, SQL, Python and Power BI
+
+🌱 Currently learning Data Analytics and building real-world projects.
+
+📍 Tamil Nadu, India
+
+
