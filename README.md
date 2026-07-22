@@ -13,14 +13,30 @@
 <p align="center">
 Passionate about transforming data into meaningful insights through analysis and visualization.
 </p>
-## 👩‍💻 About Me
-
-- 🎓 MA Economics Graduate
-- 📊 Aspiring Data Analyst
-- 💼 Passionate about Data Analytics and Business Intelligence
-- 🌱 Currently learning Advanced SQL, Python, and Power BI
-- 📍 Tamil Nadu, India
-- 📫 Reach me: durgadevi071997@gmail.com
+👩‍💼 About Me
+durgadevi = {
+    "👩‍💻 Name"       : "Durgadevi M",
+    "🎯 Role"        : "Aspiring Data Analyst",
+    "🎓 Education"   : "M.A. Economics",
+    "📊 Focus"       : [
+        "EDA",
+        "Data Visualization",
+        "Business Intelligence",
+        "Dashboard Development",
+        "Statistical Analysis"
+    ],
+    "🛠️ Tech Stack"  : [
+        "Python", "SQL", "Power BI",
+        "Tableau", "Excel", "MySQL"
+    ],
+    "📚 Libraries"   : [
+        "Pandas", "NumPy",
+        "Matplotlib", "Seaborn"
+    ],
+    "🚀 Currently"   : "Building portfolio projects and improving analytical skills.",
+    "💼 Open To"     : "Data Analyst | Power BI Developer | SQL Analyst",
+    "💡 Motto"       : "Transforming data into actionable insights."
+}
 
 ## 🛠️ Tech Stack
 
