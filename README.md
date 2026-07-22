@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="M. Durgadevi Banner" width="100%">
+  <img src="GitHub banner.png" alt="M. Durgadevi Banner" width="100%">
 </p>
 # Hi 👋, I'm M. Durgadevi
 
