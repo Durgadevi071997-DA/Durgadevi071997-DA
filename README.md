@@ -21,16 +21,23 @@ Passionate about transforming data into meaningful insights through analysis and
 - 🌱 Currently learning Advanced SQL, Python, and Power BI
 - 📍 Tamil Nadu, India
 - 📫 Reach me: durgadevi071997@gmail.com
-- ## 🛠️ Languages and Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,mysql,github" />
-</p>
+## 🛠️ Skills
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-</p>
+**💻 Databases**  
+MySQL • SQL Server
+
+**🐍 Programming**  
+Python
+
+**📊 Data Visualization**  
+Power BI • Tableau • Microsoft Excel
+
+**📚 Python Libraries**  
+Pandas • NumPy • Matplotlib • Seaborn
+
+**⚙️ Tools & Platforms**  
+Jupyter Notebook • VS Code • Git • GitHub
 
 
 
