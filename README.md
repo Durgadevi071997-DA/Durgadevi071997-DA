@@ -78,18 +78,6 @@ durgadevi = {
 
 
 
-
-## 🤝 Connect with Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/durgadevi-m-du12/" target="blank">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-</a>
-
-<a href="mailto:durgadevi071997@gmail.com">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
-</a>
-</p>
 ## 📊 GitHub Status 
 
 <p align="center">
@@ -103,21 +91,26 @@ durgadevi = {
 <p align="center">
   <img src="https://github-readme-status.vercel.app/api/top-langs/?username=Durgadevi071997-DA&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
-## 🏆 GitHub Trophies
+
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Durgadevi071997-DA&theme=onedark&row=1&column=6" />
 </p>
 
-## 👀 Profile Views
+## 🌐 Connect With Me
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Durgadevi071997-DA&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-## 📂 Featured Projects
+  <a href="https://www.linkedin.com/in/durgadevi-m-du12/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-- 📊 Global Banking & Financial Access Dashboard (Power BI)
-- 📈 Sales Analytics Dashboard
-- 📦 Inventory Analysis Dashboard
-- 🐍 Python Data Analysis Projects
-- 📑 SQL Data Analysis Queries
+  <a href="https://github.com/Durgadevi071997-DA">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/Durgadevi071997-DA?tab=followers">
+    <img src="https://img.shields.io/github/followers/Durgadevi071997-DA?style=for-the-badge&logo=github&label=GitHub%20Followers"/>
+  </a>
+
+  <img src="https://komarev.com/ghpvc/?username=Durgadevi071997-DA&style=for-the-badge&color=blue" alt="Profile Views"/>
+</p>
