@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="M. Durgadevi Banner" width="100%">
+  <img src="./Brown%20Wood%20Minimalist%20Profile%20LinkedIn%20Banner_20260722_143449_0000.png" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm M. Durgadevi</h1>
