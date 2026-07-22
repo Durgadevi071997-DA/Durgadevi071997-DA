@@ -95,35 +95,21 @@ durgadevi = {
 
 ## 📊 GitHub Overview
 
-| 📁 Public Repositories | 📊 Projects Completed | 📈 Dashboards Created | 💻 Tech Stack |
-|:----------------------:|:---------------------:|:---------------------:|:-------------:|
-| 15+ | 15+ | 10+ | Python • SQL • Power BI • Tableau • Excel |
+| 📁 Public Repositories | 📈 Dashboards Created | 💻 Tech Stack |
+|:----------------------:|:---------------------:|:---------------------:|
+| 25+ | 10+ | Python • SQL • Power BI • Tableau • Excel |
 
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/durgadevi-m-du12/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="https://github.com/Durgadevi071997-DA?tab=followers">
-    <img src="https://img.shields.io/github/followers/Durgadevi071997-DA?style=for-the-badge&logo=github&label=GitHub%20Followers"/>
-  </a>
-
-  <img src="https://komarev.com/ghpvc/?username=Durgadevi071997-DA&style=for-the-badge&color=blue" alt="Profile Views"/>
-</p>
 
 ## 🤝 Let's Connect
 
 I'm actively seeking **Data Analyst** opportunities and enjoy collaborating on **data analytics projects**, **dashboard development**, and **business intelligence** solutions.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/durgadevi-m-du12/">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="https://github.com/Durgadevi071997-DA">
-    <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" />
+ <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
