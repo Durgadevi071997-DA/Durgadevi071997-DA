@@ -1,4 +1,6 @@
-<img src="banner.png" width="100%">
+<p align="center">
+  <img src="https://github.com/Durgadevi071997-DA/Durgadevi071997-DA/blob/main/Brown%20Wood%20Minimalist%20Profile%20LinkedIn%20Banner_20260722_143449_0000.png?raw=true" width="100%" alt="Banner">
+</p>
 
 <h1 align="center">Hi 👋, I'm M. Durgadevi</h1>
 
