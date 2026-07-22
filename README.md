@@ -1,7 +1,6 @@
 <p align="center">
   <img src="banner.png" alt="M. Durgadevi Banner" width="100%">
 </p>
-# Hi 👋, I'm M. Durgadevi
 
 <h1 align="center">Hi 👋, I'm M. Durgadevi</h1>
 
@@ -18,6 +17,16 @@ Passionate about transforming data into meaningful insights through analysis and
 - 🌱 Currently learning Advanced SQL, Python, and Power BI
 - 📍 Tamil Nadu, India
 - 📫 Reach me: durgadevi071997@gmail.com
+- ## 🛠️ Languages and Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+</p>
 
 
 
