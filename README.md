@@ -62,9 +62,7 @@ durgadevi = {
 
 ## 💼 Core Competencies
 
-
 | 🔍 Analysis | 📊 Visualization | 🗄️ Database | 💼 Business |
-
 |--------------|------------------|-------------|-------------|
 | Exploratory Data Analysis | Power BI Dashboards | SQL | Business Intelligence |
 | Statistical Analysis | Tableau Reports | MySQL | KPI Development |
@@ -72,10 +70,6 @@ durgadevi = {
 | Trend Analysis | Interactive Dashboards | Query Optimization | Decision Support |
 
 ## 📊 GitHub Status 
-
-<p align="center">
-  <img src="https://github-readme-status.vercel.app/api?username=Durgadevi071997-DA&show_icons=true&theme=tokyonight" alt="GitHub Status" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Durgadevi071997-DA&theme=tokyonight" alt="GitHub Streak" />
