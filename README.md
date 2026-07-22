@@ -69,7 +69,7 @@ durgadevi = {
 | Data Cleaning & Wrangling | Excel Charts | SQL Joins & Aggregations | Business Reporting |
 | Trend Analysis | Interactive Dashboards | Query Optimization | Decision Support |
 
-## 📊 GitHub Status 
+## 📊 GitHub Stats 
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Durgadevi071997-DA&theme=tokyonight" alt="GitHub Streak" />
@@ -87,7 +87,11 @@ durgadevi = {
 |:----------------------:|:-------------:|:------------:|:----------------:|
 | 5+ | Growing 🚀 | Growing 🚀 | 5 Analytics Projects |
 
+## 📊 GitHub Statistics
 
+| 📂 Repositories | 💻 Technologies | 📊 Dashboards | 🚀 Status |
+|:---------------:|:---------------:|:-------------:|:---------:|
+| 5+ Analytics Projects | Python • SQL • Power BI • Tableau | 5+ | Actively Building |
 
 
 ## 🌐 Connect With Me
