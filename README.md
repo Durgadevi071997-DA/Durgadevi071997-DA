@@ -59,6 +59,14 @@ durgadevi = {
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 </div>
+## 💼 Core Competencies
+
+| 🔍 Analysis | 📊 Visualization | 🗄️ Database | 💼 Business |
+|--------------|------------------|-------------|-------------|
+| Exploratory Data Analysis | Power BI Dashboards | SQL | Business Intelligence |
+| Statistical Analysis | Tableau Reports | MySQL | KPI Development |
+| Data Cleaning & Wrangling | Excel Charts | SQL Joins & Aggregations | Business Reporting |
+| Trend Analysis | Interactive Dashboards | Query Optimization | Decision Support |
 
 
 
