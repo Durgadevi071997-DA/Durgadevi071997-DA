@@ -14,6 +14,8 @@
 Passionate about transforming data into meaningful insights through analysis and visualization.
 </p>
 ## 👩‍💻 About Me
+
+```python
 durgadevi = {
     "name"       : "Durgadevi M",
     "role"       : "Aspiring Data Analyst",
@@ -38,6 +40,7 @@ durgadevi = {
     "open_to"    : "Data Analyst Internships, Entry-Level Data Analyst Roles & Remote Opportunities",
     "motto"      : "Transforming raw data into meaningful insights for smarter business decisions."
 }
+```
 
 
 ## 🛠️ Tech Stack
