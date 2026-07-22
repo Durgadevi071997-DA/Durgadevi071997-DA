@@ -59,6 +59,7 @@ durgadevi = {
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 </div>
+
 ## 💼 Core Competencies
 
 | 🔍 Analysis | 📊 Visualization | 🗄️ Database | 💼 Business |
@@ -67,6 +68,13 @@ durgadevi = {
 | Statistical Analysis | Tableau Reports | MySQL | KPI Development |
 | Data Cleaning & Wrangling | Excel Charts | SQL Joins & Aggregations | Business Reporting |
 | Trend Analysis | Interactive Dashboards | Query Optimization | Decision Support |
+
+## 🚀 Featured Projects
+
+### 🔹 🌍 Global Banking & Financial Access Analysis
+**Python + SQL + Power BI** · Analyzed **28,338+ banking records**, **10 key business attributes**, and **2017–2025** financial data to identify global banking access trends through **5 KPI cards, 8+ visualizations, and interactive dashboards**.
+
+`28K+ Records` `2017–2025` `Python` `SQL` `Power BI` `EDA`
 
 
 
