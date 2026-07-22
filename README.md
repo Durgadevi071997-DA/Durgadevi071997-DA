@@ -61,9 +61,7 @@ Passionate about transforming data into meaningful insights through analysis and
 </p>
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Durgadevi071997-DA&theme=algolia&no-frame=true&row=1&column=6" />
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Durgadevi071997-DA&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 👀 Profile Views
 
