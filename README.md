@@ -83,9 +83,9 @@ durgadevi = {
 
 ## 📊 GitHub Overview
 
-| 📁 Public Repositories | ⭐ Total Stars | 👥 Followers | 🌐 Projects Live |
-|:----------------------:|:-------------:|:------------:|:----------------:|
-| 5+ | Growing 🚀 | Growing 🚀 | 5 Analytics Projects |
+| 📁 Public Repositories | 📊 Projects Completed | 📈 Dashboards Created | 💻 Tech Stack |
+|:----------------------:|:---------------------:|:---------------------:|:-------------:|
+| 30+ | 30+ | 15+ | Python • SQL • Power BI • Tableau |
 
 ## 📊 GitHub Statistics
 
