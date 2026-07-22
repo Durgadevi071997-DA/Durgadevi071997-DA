@@ -13,41 +13,48 @@
 <p align="center">
 Passionate about transforming data into meaningful insights through analysis and visualization.
 </p>
-👩‍💼 About Me
+## 👩‍💻 About Me
+
+```python
 durgadevi = {
-    "👩‍💻 Name"       : "Durgadevi M",
-    
+    "👩‍💻 Name"      : "Durgadevi M",
     "🎯 Role"        : "Aspiring Data Analyst",
-    
-    "🎓 Education"   : "M.A. Economics",
-    
-    "📊 Focus"       : [
+    "🎓 Education"  : "M.A. Economics",
+
+    "📊 Focus" : [
         "EDA",
-        
         "Data Visualization",
-        
         "Business Intelligence",
-        
         "Dashboard Development",
-        
         "Statistical Analysis"
     ],
-    "🛠️ Tech Stack"  : [
-    
-        "Python", "SQL", "Power BI",
-        "Tableau", "Excel", "MySQL"
-    ],
-    "📚 Libraries"   : [
-        "Pandas", "NumPy",
-        "Matplotlib", "Seaborn"
-    ],
-    "🚀 Currently"   : "Building portfolio projects and improving analytical skills.",
-    
-    "💼 Open To"     : "Data Analyst | Power BI Developer | SQL Analyst",
-    
-    "💡 Motto"       : "Transforming data into actionable insights."
-}
 
+    "🛠️ Tech Stack" : [
+        "Python",
+        "SQL",
+        "Power BI",
+        "Tableau",
+        "Excel",
+        "MySQL"
+    ],
+
+    "📚 Libraries" : [
+        "Pandas",
+        "NumPy",
+        "Matplotlib",
+        "Seaborn"
+    ],
+
+    "🚀 Currently" :
+        "Building real-world Data Analytics projects.",
+
+    "💼 Open To" :
+        "Data Analyst Internships & Entry-Level Roles",
+
+    "💡 Motto" :
+        "Turning data into meaningful insights."
+}
+```
 ## 🛠️ Tech Stack
 
 <div align="center">
