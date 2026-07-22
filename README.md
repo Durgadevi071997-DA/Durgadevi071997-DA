@@ -46,10 +46,10 @@ Passionate about transforming data into meaningful insights through analysis and
 <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
 </a>
 </p>
-## 📊 GitHub Stats
+## 📊 GitHub Status 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Durgadevi071997-DA&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-status.vercel.app/api?username=Durgadevi071997-DA&show_icons=true&theme=tokyonight" alt="GitHub Status" />
 </p>
 
 <p align="center">
@@ -57,7 +57,7 @@ Passionate about transforming data into meaningful insights through analysis and
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Durgadevi071997-DA&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-status.vercel.app/api/top-langs/?username=Durgadevi071997-DA&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 ## 🏆 GitHub Trophies
 
