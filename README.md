@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="GitHub banner.png" alt="M. Durgadevi Banner" width="100%">
-</p>
+
 # Hi 👋, I'm M. Durgadevi
 
 ## 💼 Aspiring Data Analyst
