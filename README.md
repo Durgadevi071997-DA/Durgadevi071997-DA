@@ -20,7 +20,7 @@ Passionate about transforming data into meaningful insights through analysis and
 - ## 🛠️ Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,github" />
 </p>
 
 <p align="left">
