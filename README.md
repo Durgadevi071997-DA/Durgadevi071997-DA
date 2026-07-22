@@ -75,6 +75,19 @@ durgadevi = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Durgadevi071997-DA&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Durgadevi071997-DA&theme=github-compact&hide_border=true" alt="GitHub Activity Graph"/>
+</p>
+
+## 📊 GitHub Overview
+
+| 📁 Public Repositories | ⭐ Total Stars | 👥 Followers | 🌐 Projects Live |
+|:----------------------:|:-------------:|:------------:|:----------------:|
+| 5+ | Growing 🚀 | Growing 🚀 | 5 Analytics Projects |
+
+
 
 
 ## 🌐 Connect With Me
