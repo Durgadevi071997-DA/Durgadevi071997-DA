@@ -66,3 +66,10 @@ Passionate about transforming data into meaningful insights through analysis and
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Durgadevi071997-DA&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
+## 📂 Featured Projects
+
+- 📊 Global Banking & Financial Access Dashboard (Power BI)
+- 📈 Sales Analytics Dashboard
+- 📦 Inventory Analysis Dashboard
+- 🐍 Python Data Analysis Projects
+- 📑 SQL Data Analysis Queries
