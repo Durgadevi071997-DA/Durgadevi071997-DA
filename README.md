@@ -13,6 +13,7 @@
 <p align="center">
 Passionate about transforming data into meaningful insights through analysis and visualization.
 </p>
+
 ## 👩‍💻 About Me
 
 ```python
