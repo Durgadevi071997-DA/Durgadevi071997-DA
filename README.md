@@ -3,14 +3,13 @@
 </p>
 # Hi 👋, I'm M. Durgadevi
 
-## 💼 Aspiring Data Analyst
+<h1 align="center">Hi 👋, I'm M. Durgadevi</h1>
 
-🎓 MA Economics Graduate
+<h3 align="center">Aspiring Data Analyst | Excel | SQL | Python | Power BI</h3>
 
-📊 Skilled in Excel, SQL, Python and Power BI
+<p align="center">
+Passionate about transforming data into meaningful insights through analysis and visualization.
+</p>
 
-🌱 Currently learning Data Analytics and building real-world projects.
-
-📍 Tamil Nadu, India
 
 
